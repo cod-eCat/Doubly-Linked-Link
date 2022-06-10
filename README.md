@@ -1,5 +1,5 @@
 # Doubly-Linked-Link
 Implement Doubly Linked Link🔗 with JAVA
 
-![h]
-(https://images.app.goo.gl/nXiZTp8QX4uTMMnB9)
+![crd: geeksforgeeks]
+(https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/03/DLL1.png)
