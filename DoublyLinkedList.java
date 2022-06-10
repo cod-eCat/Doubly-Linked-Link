@@ -35,6 +35,10 @@ public class DoublyLinkedList<T> {
 	
 	public T get(int index){
 		
+                if(index >= size){
+                        return null;
+                }
+
 		if(size == 0){
 			System.out.println("List is Empty");
 			return null;
